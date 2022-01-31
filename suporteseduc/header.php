@@ -7,8 +7,8 @@
                     <h1 class="display-5 fw-bolder text-white mb-2">Portal de Suporte aos Sistema da Secretaria de Educação de Penha/SC</h1>
                     <p class="lead fw-normal text-white-50 mb-4">Consulte tutoriais, encontre conteúdos informativos, assista vídeos e solicite ajuda através do portal do Suporte!</p>
                     <div class="d-grid gap-3 d-sm-flex justify-content-sm-center justify-content-xl-start">
-                        <a class="btn btn-primary btn-lg px-4 me-sm-3" href="#features">Get Started</a>
-                        <a class="btn btn-outline-light btn-lg px-4" href="#!">Learn More</a>
+                        <a class="btn btn-primary btn-lg px-4 me-sm-3" href="#features">Precisando de Ajuda?</a>
+                        <a class="btn btn-outline-light btn-lg px-4" href="index.php?p=atendimento">Solicitar Atendimento</a>
                     </div>
                 </div>
             </div>

@@ -6,28 +6,28 @@
 <section class="py-5" id="features">
 	<div class="container px-5 my-5">
 		<div class="row gx-5">
-			<div class="col-lg-4 mb-5 mb-lg-0"><h2 class="fw-bolder mb-0">A better way to start building.</h2></div>
+			<div class="col-lg-4 mb-5 mb-lg-0"><h2 class="fw-bolder mb-0">Como podemos te ajudar?</h2></div>
 			<div class="col-lg-8">
 				<div class="row gx-5 row-cols-1 row-cols-md-2">
 					<div class="col mb-5 h-100">
-						<div class="feature bg-primary bg-gradient text-white rounded-3 mb-3"><i class="bi bi-collection"></i></div>
-						<h2 class="h5">Featured title</h2>
-						<p class="mb-0">Paragraph of text beneath the heading to explain the heading. Here is just a bit more text.</p>
+						<div class="feature bg-primary bg-gradient text-white rounded-3 mb-3"><i class="bi bi-chat-right-dots-fill"></i></div>
+						<h2 class="h5">Solicitar Atendimento</h2>
+						<p class="mb-0">Abra um chamado pelo 1Doc e obtenha atendimento.</p>
 					</div>
 					<div class="col mb-5 h-100">
-						<div class="feature bg-primary bg-gradient text-white rounded-3 mb-3"><i class="bi bi-building"></i></div>
-						<h2 class="h5">Featured title</h2>
-						<p class="mb-0">Paragraph of text beneath the heading to explain the heading. Here is just a bit more text.</p>
+						<div class="feature bg-primary bg-gradient text-white rounded-3 mb-3"><i class="bi bi-card-text"></i></div>
+						<h2 class="h5">Acervo</h2>
+						<p class="mb-0">Acesse ao nosso acervo com os procedimento de trabalho das múltiplas plataformas da Secretaria da Educação</p>
 					</div>
 					<div class="col mb-5 mb-md-0 h-100">
-						<div class="feature bg-primary bg-gradient text-white rounded-3 mb-3"><i class="bi bi-toggles2"></i></div>
-						<h2 class="h5">Featured title</h2>
-						<p class="mb-0">Paragraph of text beneath the heading to explain the heading. Here is just a bit more text.</p>
+						<div class="feature bg-primary bg-gradient text-white rounded-3 mb-3"><i class="bi bi-youtube"></i></div>
+						<h2 class="h5">Vídeo Tutoriais</h2>
+						<p class="mb-0">Disponibilizamos vídeo tutoriais para facilitar a execução de suas tarefas de trabalho.</p>
 					</div>
 					<div class="col h-100">
-						<div class="feature bg-primary bg-gradient text-white rounded-3 mb-3"><i class="bi bi-toggles2"></i></div>
-						<h2 class="h5">Featured title</h2>
-						<p class="mb-0">Paragraph of text beneath the heading to explain the heading. Here is just a bit more text.</p>
+						<div class="feature bg-primary bg-gradient text-white rounded-3 mb-3"><i class="bi bi-eye-fill"></i></div>
+						<h2 class="h5">Suporte remoto</h2>
+						<p class="mb-0">Através de software específico permita que nosso suporte conecte ao seu computador.</p>
 					</div>
 				</div>
 			</div>
@@ -40,13 +40,13 @@
 		<div class="row gx-5 justify-content-center">
 			<div class="col-lg-10 col-xl-7">
 				<div class="text-center">
-					<div class="fs-4 mb-4 fst-italic">"Working with Start Bootstrap templates has saved me tons of development time when building new projects! Starting with a Bootstrap template just makes things easier!"</div>
+					<div class="fs-4 mb-4 fst-italic">"Para atendimento personalizado via suporte remoto ou WhatsApp é obrigatório a abertura de chamados no 1Doc."</div>
 					<div class="d-flex align-items-center justify-content-center">
 						<img class="rounded-circle me-3" src="https://dummyimage.com/40x40/ced4da/6c757d" alt="..." />
 						<div class="fw-bold">
-							Tom Ato
+							Equipe
 							<span class="fw-bold text-primary mx-1">/</span>
-							CEO, Pomodoro
+							SEDUC-SIS
 						</div>
 					</div>
 				</div>
