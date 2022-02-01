@@ -11,17 +11,17 @@
 				<div class="row gx-5 row-cols-1 row-cols-md-2">
 					<div class="col mb-5 h-100">
 						<div class="feature bg-primary bg-gradient text-white rounded-3 mb-3"><i class="bi bi-chat-right-dots-fill"></i></div>
-						<h2 class="h5">Solicitar Atendimento</h2>
+						<h2 class="h5"><a href="https://penha.1doc.com.br/">Solicitar Atendimento</a></h2>
 						<p class="mb-0">Abra um chamado pelo 1Doc e obtenha atendimento.</p>
 					</div>
 					<div class="col mb-5 h-100">
 						<div class="feature bg-primary bg-gradient text-white rounded-3 mb-3"><i class="bi bi-card-text"></i></div>
-						<h2 class="h5">Acervo</h2>
+						<h2 class="h5"><a href="index.php?p=mainAcervo">Acervo</a></h2>
 						<p class="mb-0">Acesse ao nosso acervo com os procedimento de trabalho das múltiplas plataformas da Secretaria da Educação</p>
 					</div>
 					<div class="col mb-5 mb-md-0 h-100">
 						<div class="feature bg-primary bg-gradient text-white rounded-3 mb-3"><i class="bi bi-youtube"></i></div>
-						<h2 class="h5">Vídeo Tutoriais</h2>
+						<h2 class="h5"><a href="index.php?p=mainVideos">Vídeo Tutoriais</a></h2>
 						<p class="mb-0">Disponibilizamos vídeo tutoriais para facilitar a execução de suas tarefas de trabalho.</p>
 					</div>
 					<div class="col h-100">
