@@ -23,7 +23,7 @@
                         <a href="#">Google Sala de Aula</a>
                     </p>    
                     <p class="fs-5 mb-4">
-                        <a href="#">Educacenso</a>
+                        <a href="index.php?p=acervoCenso">Educacenso</a>
                     </p>                 
                 </section>
             </article> 
