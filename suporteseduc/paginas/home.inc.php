@@ -42,7 +42,7 @@
 				<div class="text-center">
 					<div class="fs-4 mb-4 fst-italic">"Para atendimento personalizado via suporte remoto ou WhatsApp é obrigatório a abertura de chamados no 1Doc."</div>
 					<div class="d-flex align-items-center justify-content-center">
-						<img class="rounded-circle me-3" src="https://dummyimage.com/40x40/ced4da/6c757d" alt="..." />
+						<img class="rounded-circle me-3" src="img/seducsis.jpeg" alt="..." />
 						<div class="fw-bold">
 							Equipe
 							<span class="fw-bold text-primary mx-1">/</span>
@@ -55,7 +55,7 @@
 	</div>
 </div>
 <!-- Blog preview section-->
-<section class="py-5">
+<!-- <section class="py-5">
 	<div class="container px-5 my-5">
 		<div class="row gx-5 justify-content-center">
 			<div class="col-lg-8 col-xl-6">
@@ -129,9 +129,9 @@
 					</div>
 				</div>
 			</div>
-		</div>
+		</div> -->
 		<!-- Call to action-->
-		<aside class="bg-primary bg-gradient rounded-3 p-4 p-sm-5 mt-5">
+	<!-- 	<aside class="bg-primary bg-gradient rounded-3 p-4 p-sm-5 mt-5">
 			<div class="d-flex align-items-center justify-content-between flex-column flex-xl-row text-center text-xl-start">
 				<div class="mb-4 mb-xl-0">
 					<div class="fs-3 fw-bold text-white">New products, delivered to you.</div>
@@ -145,6 +145,6 @@
 					<div class="small text-white-50">We care about privacy, and will never share your data.</div>
 				</div>
 			</div>
-		</aside>
+		</aside> -->
 	</div>
 </section>

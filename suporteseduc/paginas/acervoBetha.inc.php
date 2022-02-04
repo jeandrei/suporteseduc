@@ -19,6 +19,14 @@
                         <a href="https://docs.google.com/document/d/1QmN_3Tg10afFZ-EYVSbJNvYJoVJah9I8e6fmjW0ptL4/edit?usp=sharing">Rematrículas</a>
                     </p>
 
+                    <p class="fs-5 mb-4">
+                        <a href="https://docs.google.com/document/d/1y1JcW4u1KpFK5Gp-9JIWwhUAjKgq5BZ-IH8N8Z5_5Ac/edit?usp=sharing">Quadro de Horários</a>
+                    </p>
+
+                    <p class="fs-5 mb-4">
+                        <a href="https://docs.google.com/document/d/19VMkLfuO7pvIC-6jsYtmmfIWdqJpi22kxS11lXSoQcQ/edit?usp=sharing">Enturmação de Professor</a>
+                    </p>
+
 
 
 
