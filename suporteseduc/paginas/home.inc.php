@@ -26,7 +26,7 @@
 					</div>
 					<div class="col h-100">
 						<div class="feature bg-primary bg-gradient text-white rounded-3 mb-3"><i class="bi bi-eye-fill"></i></div>
-						<h2 class="h5">Suporte remoto</h2>
+						<h2 class="h5"><a href="index.php?p=suporteRemoto">Suporte Remoto</a></h2>
 						<p class="mb-0">Através de software específico permita que nosso suporte conecte ao seu computador.</p>
 					</div>
 				</div>
