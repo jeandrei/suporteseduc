@@ -17,7 +17,10 @@
                         <h2>Selecione o sistema</h2>                    
                     </p>
                     <p class="fs-5 mb-4">
-                        <a href="index.php?p=acervoBetha">Betha</a>
+                        <a href="index.php?p=acervoBethaEducacao">Betha Educação</a>
+                    </p>
+                    <p class="fs-5 mb-4">
+                        <a href="index.php?p=acervoBethaProfessores">Betha Professores</a>
                     </p>
                     <p class="fs-5 mb-4">
                         <a href="#">Google Sala de Aula</a>

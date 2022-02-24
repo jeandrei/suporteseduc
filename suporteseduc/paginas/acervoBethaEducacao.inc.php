@@ -7,7 +7,7 @@
                 <!-- Post header-->
                 <header class="mb-4">
                     <!-- Post title-->
-                    <h1 class="fw-bolder mb-1">Acervo - Betha</h1>                                     
+                    <h1 class="fw-bolder mb-1">Acervo - Betha Educação</h1>                                     
                 </header>              
                 <section class="mb-5">
                     <h2 class="fw-bolder mb-4 mt-5">Início do Ano</h2>

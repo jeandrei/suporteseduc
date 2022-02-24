@@ -136,21 +136,25 @@
                       Clique no link: <a href="https://remotedesktop.google.com/access">https://remotedesktop.google.com/access</a>
                     </p> 
 
+                    <p class="fs-5">
+                      No canto esquerdo clique em Acesso Remoto.
+                    </p>  
+                    <img class="img-fluid rounded mb-4" src="img/suporteremoto/13.PNG" alt="..." />
 
                     <p class="fs-5">
                       Verifique se status do seu dispositivo está como On-line.
                     </p>                    
-                    <img class="img-fluid rounded mb-4" src="img/suporteremoto/13.PNG" alt="..." />
+                    <img class="img-fluid rounded mb-4" src="img/suporteremoto/14.PNG" alt="..." />
                     
                     
                     
                     <p class="fs-5 mb-4">
-                      Clique em Suporte remoto.
+                      Agora no canto esquerdo clique em Suporte remoto.
                     </p>
                     <p class="fs-5">
                       Clique Gerar código.
                     </p>
-                    <img class="img-fluid rounded mb-4" src="img/suporteremoto/14.PNG" alt="..." />
+                    <img class="img-fluid rounded mb-4" src="img/suporteremoto/15.PNG" alt="..." />
 
 
                     <p class="fs-5 mb-4">
@@ -159,7 +163,7 @@
                     <p class="fs-5">
                       Envie o código para o suporte.
                     </p>
-                    <img class="img-fluid rounded mb-4" src="img/suporteremoto/15.PNG" alt="..." />
+                    <img class="img-fluid rounded mb-4" src="img/suporteremoto/16.PNG" alt="..." />
 
                     </section>
             </article> 
