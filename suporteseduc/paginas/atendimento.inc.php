@@ -62,9 +62,7 @@
                     <p class="fs-5 mb-4">
                        Por fim clique em <b>Abrir Chamado</b>
                     </p>
-                    <figure class="mb-4"><img class="img-fluid rounded" src="img/atendimento/chamado2.png" alt="..." /></figure>
-                  
-                   
+                    <figure class="mb-4"><img class="img-fluid rounded" src="img/atendimento/chamado2.png" alt="..." /></figure>                                     
                 </section>
             </article> 
         </div>       

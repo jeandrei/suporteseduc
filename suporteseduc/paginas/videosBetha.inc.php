@@ -8,9 +8,10 @@
                 <header class="mb-4">
                     <!-- Post title-->
                     <h1 class="fw-bolder mb-1">Vídeos - Betha</h1>                                     
-                </header>              
+                </header>  
+                
+                
                 <section class="mb-5">
-
                     <h2 class="fw-bolder mb-4 mt-5">Professor</h2>
                     <p class="fs-5 mb-4">
                         <a href="https://youtube.com/playlist?list=PL88yYJT7mVDQLSZ6RGYFuRpFb2RRu_v81">Betha Professores - Playlist</a>
@@ -39,7 +40,11 @@
                     <p class="fs-5 mb-4">
                         <a href="https://vimeopro.com/centraldeajuda/videos-explicativos-educacao/video/316129470">Desempenho escolar</a>
                     </p> 
-                    <!-- ************************************************************************** -->
+                </section>
+
+
+
+                <section class="mb-5">
                     <h2 class="fw-bolder mb-4 mt-5">Educação</h2>
                     <p class="fs-5 mb-4">
                         <a href="https://vimeopro.com/centraldeajuda/videos-explicativos-educacao/video/370869981">Rematrícula de aluno</a>
@@ -61,6 +66,8 @@
                         <a href="https://vimeopro.com/centraldeajuda/videos-explicativos-educacao/video/362871548">Impressão do Boletim</a>
                     </p> 
                 </section>
+
+
             </article> 
         </div>       
     </div><!-- container -->

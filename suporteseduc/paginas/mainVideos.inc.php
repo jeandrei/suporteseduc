@@ -10,7 +10,7 @@
                     <h1 class="fw-bolder mb-1">Vídeos</h1>                                    
                 </header>
                 <!-- Preview image figure-->
-                <figure class="mb-4"><img class="img-fluid rounded" src="img/videos/youtube.png" alt="..." /></figure>
+                <figure class="mb-4"><img class="img-fluid rounded" style="width: 150px" src="img/videos/youtube.png" alt="..." /></figure>
                 <!-- Post content-->
                 <section class="mb-5">
                     <p class="fs-5 mb-4">
@@ -20,7 +20,7 @@
                         <a href="index.php?p=videosBetha">Betha</a>
                     </p>
                     <p class="fs-5 mb-4">
-                        <a href="index.php?p=videosGoogle">Google Sala de Aula</a>
+                        <a href="index.php?p=videosGoogleSala">Google Sala de Aula</a>
                     </p>          
                 </section>
             </article> 

@@ -9,6 +9,7 @@
                     <!-- Post title-->
                     <h1 class="fw-bolder mb-1">Acervo - Betha Educação</h1>                                     
                 </header>              
+                
                 <section class="mb-5">
                     <h2 class="fw-bolder mb-4 mt-5">Início do Ano</h2>
                     <p class="fs-5 mb-4">
@@ -26,10 +27,11 @@
                     <p class="fs-5 mb-4">
                         <a href="https://docs.google.com/document/d/19VMkLfuO7pvIC-6jsYtmmfIWdqJpi22kxS11lXSoQcQ/edit?usp=sharing">Enturmação de Professor</a>
                     </p>
+                </section>
 
 
 
-
+                <section class="mb-5">
                     <h2 class="fw-bolder mb-4 mt-5">Durante o Ano</h2>
                     <p class="fs-5 mb-4">
                         <a href="https://docs.google.com/document/d/1UR4nTs-mwG--9U89KSGH2xyyEHq3zLT9X8zHJHHXLdk/edit?usp=sharing">Cadastro de Aluno</a>
@@ -58,17 +60,19 @@
                     <p class="fs-5 mb-4">
                         <a href="https://docs.google.com/document/d/1O_-X5cPzYxsUCpLAWPKylkrmwvpmtDEDrVisTtlk378/edit?usp=sharing">Movimentações da matrícula</a>
                     </p>
+                </section>
 
 
 
                     
-
+                <section>
                     <h2 class="fw-bolder mb-4 mt-5">Final do Ano</h2>
                     <p class="fs-5 mb-4">
                         <a href="https://docs.google.com/document/d/1TaM7lpKgq-0Qq1ckaCFBy6jjdMMGfg4fCbhHyamc2Ec/edit?usp=sharing">Lançamento das notas de exame</a>
-                    </p>
-                    
+                    </p>                    
                 </section>
+
+
             </article> 
         </div>       
     </div><!-- container -->

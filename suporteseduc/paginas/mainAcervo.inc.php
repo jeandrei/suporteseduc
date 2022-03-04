@@ -23,7 +23,7 @@
                         <a href="index.php?p=acervoBethaProfessores">Betha Professores</a>
                     </p>
                     <p class="fs-5 mb-4">
-                        <a href="#">Google Sala de Aula</a>
+                        <a href="index.php?p=acervoGoogleSala">Google Sala de Aula</a>
                     </p>    
                     <p class="fs-5 mb-4">
                         <a href="index.php?p=acervoCenso">Educacenso</a>
